@@ -1,7 +1,3 @@
-<p align="center"><em>Computer Engineering Student at University of Tehran & Passionate Coder</em></p>
-
----
-
 
 - 🎓 I'm currently pursuing a **Bachelor's degree in Computer Engineering** at the **University of Tehran**  
 - 💡 My core interests lie in **Artificial Intelligence**, **Machine Learning** and **Low-Level System Development**  
