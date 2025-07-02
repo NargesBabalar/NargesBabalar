@@ -49,7 +49,11 @@
   <img src="https://img.shields.io/badge/Linux-black?logo=linux" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/ANTLR-5E2BFF?style=flat&logo=antlr&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white" />
 </p>
+
 
 ---
 
