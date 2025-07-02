@@ -1,4 +1,3 @@
-<h1 align="center">👋 Welcome! I'm Narges Babalar</h1>
 <p align="center"><em>Computer Engineering Student at University of Tehran & Passionate Coder</em></p>
 
 ---
