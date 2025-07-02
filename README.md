@@ -3,7 +3,6 @@
 
 ---
 
-### 🎯 Who I Am
 
 - 🎓 I'm currently pursuing a **Bachelor's degree in Computer Engineering** at the **University of Tehran**  
 - 💡 My core interests lie in **Artificial Intelligence**, **Machine Learning** and **Low-Level System Development**  
@@ -62,11 +61,11 @@
 ### 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bornafrv&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bornafrv&theme=radical" height="160"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=NargesBabalar&show_icons=true&theme=radical" height="160"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NargesBabalar&theme=radical" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bornafrv&layout=compact&theme=radical" height="160"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NargesBabalar&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
