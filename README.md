@@ -1,7 +1,7 @@
 
 - 🎓 I'm currently pursuing a **Bachelor's degree in Computer Engineering** at the **University of Tehran**  
 - 💡 My core interests lie in **Artificial Intelligence**, **Machine Learning** and **Low-Level System Development**  
-- 📄 [Click here to view my Resume](./resume.pdf)
+
 
 ---
 
